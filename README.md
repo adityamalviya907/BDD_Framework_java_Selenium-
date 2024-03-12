@@ -1,10 +1,10 @@
-Behavioural driven development automation framework using selenium, cucumber-java, , maven, phantomjs
+Behavioural driven development automation framework using selenium, cucumber-java, maven, phantomjs
 
 
 
 Tools and technologies used:
 
-1. Language: Java 8
+1. Language: Java 
 2. Logging: log4j
 3. BDD framework: Cucumber jvm
 4. Automation tool: Selenium webdriver
